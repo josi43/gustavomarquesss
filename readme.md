@@ -1,4 +1,4 @@
-![] (/img/banner.gif)
+![](/img/banner.gif)
 
 ## Hello World ! I am Gustavo Marques 👋
 
