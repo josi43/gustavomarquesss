@@ -1,4 +1,4 @@
-![Alt text] (./img/banner.jpg)
+![Alt text] (./img/banner.gif)
 
 ## Hello World ! I am Gustavo Marques 👋
 
